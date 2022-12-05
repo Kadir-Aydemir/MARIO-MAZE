@@ -1,0 +1,61 @@
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\bin\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.exe.config
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\bin\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\bin\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\bin\Debug\Interop.WMPLib.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\MARIO MAZE.csprojAssemblyReference.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\Interop.WMPLib.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\MARIO MAZE.csproj.ResolveComReference.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmAnimation.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmAnimation2.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmAnimation3.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmBomb.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmDragon.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmEnd.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmGameover.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmGhost.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmGiris.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmOyun.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmPause.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmPrenses.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.FrmYildiz.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.Properties.Resources.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\MARIO MAZE.csproj.GenerateResource.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\MARIO MAZE.csproj.CoreCompileInputs.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\MARIO MAZE.csproj.CopyComplete
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\NESNELERİN KOORDİNAT ve HAREKETLERİ\MARIO MAZE\obj\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\bin\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.exe.config
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\bin\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\bin\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\bin\Debug\Interop.WMPLib.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\Interop.WMPLib.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO MAZE.csproj.ResolveComReference.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmAnimation.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmAnimation2.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmAnimation3.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmBomb.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmDragon.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmEnd.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmGameover.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmGhost.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmGiris.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmOyun.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmPause.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmPrenses.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO_MAZE.FrmYildiz.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\NESNELERİN_KOORDİNAT_ve_HAREKETLERİ.Properties.Resources.resources
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO MAZE.csproj.GenerateResource.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO MAZE.csproj.CoreCompileInputs.cache
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\MARIO MAZE.csproj.CopyComplete
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.exe
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\NESNELERİN KOORDİNAT ve HAREKETLERİ.pdb
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\msı\Documents\Visual Studio 2019\Projects\c# 25 uygulamalı proje\MARIO MAZE\MARIO MAZE\bin\Debug\Bunifu_UI_v1.5.3.dll

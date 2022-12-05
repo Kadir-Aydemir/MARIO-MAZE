@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MARIO MAZE", "MARIO MAZE\MARIO MAZE.csproj", "{BE468CB6-E76C-45C3-8974-77BCA8C03FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE468CB6-E76C-45C3-8974-77BCA8C03FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE468CB6-E76C-45C3-8974-77BCA8C03FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE468CB6-E76C-45C3-8974-77BCA8C03FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE468CB6-E76C-45C3-8974-77BCA8C03FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E75A67E-61D9-41C4-95DA-8A0F47316349}
+	EndGlobalSection
+EndGlobal
